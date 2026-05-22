@@ -2,7 +2,7 @@
 
 Simple telegram bot to run your own [Maigret search](https://github.com/soxoj/maigret) with a couple of clicks!
 
-Official bot: [@maigret_osint_bot](http://t.me/maigret_osint_bot)
+[Live community bot](https://sites.google.com/view/maigret-bot-link).
 
 ## Requirements
 
